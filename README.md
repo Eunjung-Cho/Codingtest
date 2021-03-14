@@ -1,4 +1,4 @@
-# Codingtest
+# Preparing for the Codingtest 
 
 ## 기업 개발 블로그 (국내)
 [네이버 개발 블로그](https://d2.naver.com/home)  
