@@ -1,5 +1,13 @@
 # Preparing for the Codingtest 
 
+# SQL 스터디
+[SQL 쿼리 연습](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+[해커랭크 SQL](https://www.hackerrank.com/domains/sql)
+[인프런 SQL 강의](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-sql/dashboard)
+
+
+
+
 ## 기업 개발 블로그 (국내)
 [네이버 개발 블로그](https://d2.naver.com/home)  
 [카카오 테크 블로그](https://tech.kakao.com/blog/)  
